@@ -1,0 +1,43 @@
+_repo: Galatea_63404
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Welford, A. B.
+    gutenberg_agent_id: '52426'
+    url: http://www.gutenberg.org/2009/agents/52426
+  - agent_name: Oelsner, H.
+    gutenberg_agent_id: '52425'
+    url: http://www.gutenberg.org/2009/agents/52425
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - Cervantes, Miguel de
+    - Saavedra, Miguel Cervantes
+    - De Cervantes Saavedra, Miguel
+    - Saavedra, Miguel de Cervantes
+    - Cervantes, Michel
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+  editor:
+    agent_name: Fitzmaurice-Kellly, Jas
+    gutenberg_agent_id: '52424'
+    url: http://www.gutenberg.org/2009/agents/52424
+description: ''
+gutenberg_issued: '2020-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Galatea
+url: http://www.gutenberg.org/ebooks/63404
